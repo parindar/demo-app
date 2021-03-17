@@ -1,3 +1,3 @@
-# hello world from Parinda
+# hello world
 
 # Hi from Devinda
